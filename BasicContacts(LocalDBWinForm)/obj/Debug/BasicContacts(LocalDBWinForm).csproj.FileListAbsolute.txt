@@ -1,0 +1,14 @@
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts(LocalDBWinForm).csprojAssemblyReference.cache
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts_LocalDBWinForm_.Add.resources
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts_LocalDBWinForm_.Edit.resources
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts_LocalDBWinForm_.MainForm.resources
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts_LocalDBWinForm_.Properties.Resources.resources
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts(LocalDBWinForm).csproj.GenerateResource.cache
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts(LocalDBWinForm).csproj.CoreCompileInputs.cache
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\bin\Debug\ContactsDB.mdf
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\bin\Debug\ContactsDB_log.ldf
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\bin\Debug\BasicContacts(LocalDBWinForm).exe.config
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\bin\Debug\BasicContacts(LocalDBWinForm).exe
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\bin\Debug\BasicContacts(LocalDBWinForm).pdb
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts(LocalDBWinForm).exe
+D:\BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm)\obj\Debug\BasicContacts(LocalDBWinForm).pdb

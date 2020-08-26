@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicContacts(LocalDBWinForm)", "BasicContacts(LocalDBWinForm)\BasicContacts(LocalDBWinForm).csproj", "{F077411A-CCF4-483A-AD20-97039B0207A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F077411A-CCF4-483A-AD20-97039B0207A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F077411A-CCF4-483A-AD20-97039B0207A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F077411A-CCF4-483A-AD20-97039B0207A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F077411A-CCF4-483A-AD20-97039B0207A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A50CF1-9E04-45B3-8773-A3511EA577EA}
+	EndGlobalSection
+EndGlobal
